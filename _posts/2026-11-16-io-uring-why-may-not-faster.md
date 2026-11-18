@@ -10,8 +10,6 @@ tags: io_uring
 {:toc}
 
 
-# io_uring 减少了系统调用，为什么不一定比 epoll 快？
-
 把一个网络服务从 `epoll` 重构成 `io_uring`，系统调用次数确实可能下降，但 QPS 不一定上升， P99 延迟甚至可能变差。
 
 这并不矛盾。
