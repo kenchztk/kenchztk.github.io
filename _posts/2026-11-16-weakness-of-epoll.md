@@ -13,15 +13,7 @@ tags: epoll
 
 ### 1 引言
 
-本文来自 Marek’s 博客中 I/O multiplexing part 系列之三和四，原文一共有四篇，主要讲 Linux 上 IO 多路复用的一些问题，本文加入了我的一些个人理解，如有不对之处敬请指出。原文链接如下：
-
-The history of the Select(2) syscall [1]
-
-Select(2) is fundamentally broken [2]
-
-Epoll is fundamentally broken 1/2 [3]
-
-Epoll is fundamentally broken 2/2 [4]
+本文来自 Marek’s 博客中 I/O multiplexing part 系列之三和四，原文一共有四篇，主要讲 Linux 上 IO 多路复用的一些问题，本文加入了我的一些个人理解，如有不对之处敬请指出。
 
 ### 2 脉络
 
@@ -223,21 +215,13 @@ Marc Lehmann 也提到这个问题：
 ### 5 引用
 
 [1]https://idea.popcount.org/2016-11-01-a-brief-history-of-select2/
-
 [2]https://idea.popcount.org/2017-01-06-select-is-fundamentally-broken/
-
 [3]https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/
-
 [4]https://idea.popcount.org/2017-03-20-epoll-is-fundamentally-broken-22/
-
 [5]https://lwn.net/Articles/542866/
-
 [6]https://lwn.net/Articles/542866/
-
 [7]https://kernel.taobao.org/2019/12/epoll-is-fundamentally-broken/
-
 [8]https://zh.wikipedia.org/wiki/Epoll
-
 [9]https://stackoverflow.com/questions/4058368/what-does-eagain-mean
 
 > 原文链接：http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247502248&idx=1&sn=49ed63ff39308c0b6a4b8b9822d73a30&chksm=f96bbb5cce1c324aae780fb819b7bb51a1a84358d76098f56b07d5c805389287a0f9fdd5b027&mpshare=1&scene=24&srcid=0216mbMdsR5pkO80mkb1I9gs&sharer_sharetime=1644970486082&sharer_shareid=75c2091898fa60f3aba4f440fb41f672#rd
