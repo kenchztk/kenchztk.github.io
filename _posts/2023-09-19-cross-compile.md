@@ -2,8 +2,8 @@
 layout: post
 title: cross_compile  
 date:   2023-09-19 09:17:17
-categories: 交叉编译
-tags: camke
+categories: c/c++
+tags: cmake
 ---
 
 * content
