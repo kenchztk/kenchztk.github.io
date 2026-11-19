@@ -2,7 +2,7 @@
 layout: post
 title:  redis 底层存储结构
 date:   2024-08-07 09:17:20
-categories: redis
+categories: 架构
 tags: redis
 ---
 

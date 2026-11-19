@@ -2,8 +2,8 @@
 layout: post
 title:  c++ 多态拾遗
 date:   2024-11-04 15:58:07
-categories: c++
-tags: c/c++
+categories: c/c++
+tags: 多态
 ---
 
 * content

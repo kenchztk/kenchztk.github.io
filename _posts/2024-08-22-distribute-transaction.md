@@ -2,8 +2,8 @@
 layout: post
 title:  分布式事务及七种解决方案
 date:   2024-08-22 22:02:22
-categories: 分布式
-tags: 分布式事务
+categories: 架构
+tags: 分布式
 ---
 
 * content
