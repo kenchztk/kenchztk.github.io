@@ -2,7 +2,7 @@
 layout: post
 title:  C++ 高性能之CPU 缓存友好代码常见套路
 date:   2026-11-04 09:45:39
-categories: 高性能 
+categories: c/c++ 
 tags: c/c++
 ---
 

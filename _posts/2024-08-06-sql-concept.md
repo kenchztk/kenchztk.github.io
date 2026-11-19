@@ -2,7 +2,7 @@
 layout: post
 title:  SQL概述
 date:   2024-08-06 08:49:47
-categories: sql
+categories: 数据库
 tags: sql
 ---
 

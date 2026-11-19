@@ -2,7 +2,7 @@
 layout: post
 title:  asio 在 win 平台错误信息的不同编码行为
 date:   2026-10-20 10:36:22
-categories: 通信
+categories: 编码
 tags: asio
 ---
 

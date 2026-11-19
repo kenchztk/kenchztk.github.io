@@ -2,7 +2,7 @@
 layout: post
 title: "localhost/127.0.0.1/本机ip/0.0.0.0 的区别"
 date: 2022-08-25 17:35:51
-categories: network
+categories: Network
 tags: network
 ---
 

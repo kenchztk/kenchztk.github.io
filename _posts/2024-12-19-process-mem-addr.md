@@ -2,7 +2,7 @@
 layout: post
 title:  进程地址空间
 date:   2024-12-19 14:31:50
-categories: 编程
+categories: 计算机
 tags: 操作系统
 ---
 

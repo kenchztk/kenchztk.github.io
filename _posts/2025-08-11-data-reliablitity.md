@@ -2,7 +2,7 @@
 layout: post
 title:  数据可靠性方案
 date:   2025-08-11 19:48:48
-categories: 高可用
+categories: 架构
 tags: raid10
 ---
 

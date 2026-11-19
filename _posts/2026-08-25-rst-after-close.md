@@ -2,7 +2,7 @@
 layout: post
 title:  rst 包的一种情形
 date:   2026-08-25 10:59:09
-categories: tcp/ip
+categories: Network
 tags: rst
 ---
 

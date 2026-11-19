@@ -2,7 +2,7 @@
 layout: post
 title:  MySQL复制三剑客全面剖析：同步、异步、半同步
 date:   2025-08-11 19:11:57
-categories: 高可用
+categories: 数据库
 tags: mysql
 ---
 

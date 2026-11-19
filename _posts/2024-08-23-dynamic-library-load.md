@@ -3,7 +3,7 @@ layout: post
 title:  静态加载和动态加载
 date:   2024-08-23 20:55:07
 categories: c++
-tags: c++
+tags: c/c++
 ---
 
 * content

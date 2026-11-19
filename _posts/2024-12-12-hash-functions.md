@@ -2,7 +2,7 @@
 layout: post
 title:  哈希函数常用构造方法
 date:   2024-12-12 11:46:51
-categories: 编程
+categories: 计算机
 tags: 哈希
 ---
 

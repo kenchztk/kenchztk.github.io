@@ -2,7 +2,7 @@
 layout: post
 title:  脑裂问题
 date:   2025-08-11 19:27:25
-categories: 高可用
+categories: 架构
 tags: 脑裂问题
 ---
 

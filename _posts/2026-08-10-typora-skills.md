@@ -2,7 +2,7 @@
 layout: post
 title:  typora 技巧
 date:   2026-08-10 19:15:03
-categories: typora
+categories: 计算机
 tags: typora
 ---
 

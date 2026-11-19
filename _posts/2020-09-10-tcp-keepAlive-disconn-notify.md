@@ -2,7 +2,7 @@
 layout: post
 title:  "使用长连接之后，客户端、服务端怎么知道本次传输结束呢?"
 date:   2020-09-10 19:07:00
-categories: network
+categories: Network
 tags: network
 ---
 
